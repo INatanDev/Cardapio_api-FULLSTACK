@@ -25,4 +25,5 @@ public class Food {
         this.title = data.title();
         this.price = data.price();
     }
+
 }
